@@ -12,7 +12,7 @@
 * People submitting tasks after the current week will be awarded **half the points**
 
 ### Week1:
-This week will cover the basics related to setting up the enviroment and install all the necessary softwares and adjust VMs according to our need.
+This week will cover the basics related to setting up the enviroment and getting started with Basics of Python.
 
 ### Week2:
 Yet to be decided
