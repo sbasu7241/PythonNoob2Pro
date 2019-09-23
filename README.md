@@ -1,4 +1,4 @@
-# Python-Noob-To-Pro-v2
+# Python-Noob-To-Pro-v1
 * This is a month long task list to get started with Python and Linux Basics and we will try to make you get into get into detailed Cyber-Security concepts using Python.
 * You could find task_no.md files in which the tasks to be done in that week will be present. 
 * To make this more interesting and competitive we added some score for each task.
