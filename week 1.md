@@ -18,8 +18,11 @@
 || **TOTAL** 	| **400**	|
 
 1 : Tutorials for each and every task will be provided in the Discord channel.
+
 2 : Star this repo since tasks will be frequently updated as per your collective progress.
+
 3 : Copy-Pasting python code is not allowed however you may refer to your friends for help.
+
 4 : For task 3 MAC users may simple post a screenshot of their homescreen and those using Windows/Virtual Box need to screenshot a running Linux environment. 
 
 Index	|	|
